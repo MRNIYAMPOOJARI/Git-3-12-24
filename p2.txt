@@ -1,2 +1,5 @@
 new file created
+<<<<<<< HEAD
 ertyuiop
+=======
+>>>>>>> ef32336 ( new file added)
